@@ -1,0 +1,8 @@
+name: CustomSpears
+version: 1.0
+main: com.customspears.CustomSpears
+api-version: 1.21
+
+commands:
+  spear:
+    usage: /spear give <player> <spear>
